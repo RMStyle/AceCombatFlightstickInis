@@ -5,6 +5,10 @@ This project was made because I could not find the [Steam Discussion with the in
 
 # How to use
 ## Windows
-Open the File Explorer and go to `%AppData%\Local\BANDAI NAMCO Entertainment\ACE COMBAT 7\Config`. Open the file `Input.ini` and add this below the [JoystickMappingFormat] section.
+Open the File Explorer and go to `%AppData%\Local\BANDAI NAMCO Entertainment\ACE COMBAT 7\Config`. 
+Make a backup of the `Input.ini`, by copying it and renaming it to `Input.ini.bak`. If anything goes wrong the ini can just be renamed to the original name and changes are reverted, 
+Open the file `Input.ini` and add this below the [JoystickMappingFormat] section.
 ## Linux
-Inside the SteamLibrary directory navigate to `steamapps/compatdata/502500/pfx/drive_c/users/steamuser/AppData/Local/BANDAI NAMCO Entertainment/ACE COMBAT 7/Config`. Open the file `Input.ini` and add this below the [JoystickMappingFormat] section.
+Inside the SteamLibrary directory navigate to `steamapps/compatdata/502500/pfx/drive_c/users/steamuser/AppData/Local/BANDAI NAMCO Entertainment/ACE COMBAT 7/Config`.
+Make a backup of the `Input.ini`, by copying it and renaming it to `Input.ini.bak`. If anything goes wrong the ini can just be renamed to the original name and changes are reverted,
+Open the file `Input.ini` and add this below the [JoystickMappingFormat] section.
